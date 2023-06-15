@@ -1,21 +1,25 @@
 ---
 title: "My Lab Journal"
-subtitle: "Business Data Science Basics"
-author: "Joschka Schwarz"
+subtitle: "Business Decisions with Machine Learning "
+author: "Balaji Ravi"
 ---
 
 ![](assets/logo/TIE_logo.svg){width=80% fig-align="center"}
+This is my lab journal for the course *Business Decisions with Machine Learning* at the Institute of Entrepreneurship. 
 
-This is a template example for lab journaling. Students in the data science courses at the Institute of Entrepreneurship will use this template to learn R for business analytics. Students can replace this text as they wish.
+## This journal contains 6 challenges with partial solutions
 
-## How to use
+1. Machine Learning Fundamentals.
 
-1. Accept the assignment and get your own github repo.
+2. Supervised ML.
 
-2. Blog/journal what you are doing in R, by editing the `.qmd` files. 
+3. Automated Machine Learning with H20-1.
 
-3. See the links page for lots of helpful links on learning R.
+4. Automated Machine Learning with H20-2.
 
-4. Change everything to make it your own.
+5. Performance Measures
 
-5. Make sure to render you website everytime before you want to upload changes
+6. LIME
+
+
+Please navigate to the respective page by using the drop down menu under the "Journal" button on the Header bar on this webpage. 
